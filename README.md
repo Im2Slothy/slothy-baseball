@@ -7,6 +7,12 @@ an optional Ball Cam.
 
 > Current version: `1.0.0`
 
+## Showcase
+
+[![Slothy Baseball Community Edition Showcase](https://img.youtube.com/vi/tftYiPxyjCQ/maxresdefault.jpg)](https://youtu.be/tftYiPxyjCQ)
+
+Click the image above to watch the gameplay showcase.
+
 ## Status
 
 This repository contains the free Community Edition: a complete
