@@ -10,7 +10,7 @@ an optional Ball Cam.
 ## Status
 
 This repository contains the free Community Edition: a complete
-batter-versus-AI batting-practice MVP. It will remain free and open source.
+batter-versus-AI batting-practice MVP, It's proof I could bring an idea to life. It will remain free and open source.
 
 The planned expanded edition will be a separate paid product featuring
 player-controlled pitching, multiplayer competition, and deeper baseball
