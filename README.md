@@ -1,4 +1,4 @@
-# Slothy Baseball - Free & Open Source Version
+# Slothy Baseball — Community Edition
 
 A free and open-source, standalone batting-practice resource for FiveM. Slothy
 Baseball combines requested AI pitching, mouse-controlled PCI hitting, timing
@@ -10,7 +10,7 @@ an optional Ball Cam.
 ## Status
 
 This repository contains the free Community Edition: a complete
-batter-versus-AI batting-practice. It will remain free and open source.
+batter-versus-AI batting-practice MVP. It will remain free and open source.
 
 The planned expanded edition will be a separate paid product featuring
 player-controlled pitching, multiplayer competition, and deeper baseball
